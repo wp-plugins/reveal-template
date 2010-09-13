@@ -48,7 +48,7 @@ This plugin is primarily intended to be activated on an as-needed basis.
 == Changelog ==
 
 = 2.0 =
-* Re-implementation by extending C2C_Plugin_012, which among other things adds support for:
+* Re-implementation by extending C2C_Plugin_013, which among other things adds support for:
     * Reset of options to default values
     * Better sanitization of input values
     * Offload of core/basic functionality to generic plugin framework
@@ -85,4 +85,4 @@ This plugin is primarily intended to be activated on an as-needed basis.
 == Upgrade Notice ==
 
 = 2.0 =
-Minor update. Highlights: re-implementation; full localization support; deprecated reveal_template() (use c2c_reveal_template() instead); misc non-functionality changes; verified WP 3.0 compatibility.
+Recommended update. Highlights: re-implementation; full localization support; deprecated reveal_template() (use c2c_reveal_template() instead); misc non-functionality changes; verified WP 3.0 compatibility.
