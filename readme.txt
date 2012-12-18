@@ -176,6 +176,9 @@ if ( $current_template == 'category-12.php' ) {
 
 == Upgrade Notice ==
 
+= 2.3 =
+Recommended update. Highlights: only show in footer for admins; added support for 'front_page' and 'index' templates; updated plugin framework; noted WP 3.5+ compatibility; and more.
+
 = 2.2 =
 Recommended update. Highlights: updated plugin framework; noted compatibility with WP 3.3+; dropped compatibility with versions of WP older than 3.1.
 
